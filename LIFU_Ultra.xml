@@ -160,28 +160,16 @@
               <Action OrderNumber="5" KeypressType="WindowMessage" KeyPressCode="40" KeyPressWindow="最终幻想XIV" ActionType="KeyPress" ExecutionDelayExpression="300*${var:delay}">
                 <Condition Enabled="false" Grouping="Or" />
               </Action>
-              <Action OrderNumber="6" KeypressType="WindowMessage" KeyPressCode="192" KeyPressWindow="最终幻想XIV" ActionType="KeyPress" ExecutionDelayExpression="50*${var:delay}">
+              <Action OrderNumber="6" KeypressType="WindowMessage" KeyPressCode="192" KeyPressWindow="最终幻想XIV" ActionType="KeyPress" ExecutionDelayExpression="250*${var:delay}">
                 <Condition Enabled="false" Grouping="Or" />
               </Action>
               <Action OrderNumber="7" KeypressType="WindowMessage" KeyPressCode="192" KeyPressWindow="最终幻想XIV" ActionType="KeyPress" ExecutionDelayExpression="300*${var:delay}">
                 <Condition Enabled="false" Grouping="Or" />
               </Action>
-              <Action OrderNumber="8" KeypressType="WindowMessage" KeyPressCode="192" KeyPressWindow="最终幻想XIV" ActionType="KeyPress" ExecutionDelayExpression="100*${var:delay}">
+              <Action OrderNumber="8" KeypressType="WindowMessage" KeyPressCode="27" KeyPressWindow="最终幻想XIV" ActionType="KeyPress" ExecutionDelayExpression="100*${var:delay}">
                 <Condition Enabled="false" Grouping="Or" />
               </Action>
-              <Action OrderNumber="9" ActionType="Placeholder">
-                <Condition Enabled="false" Grouping="Or" />
-              </Action>
-              <Action OrderNumber="10" KeypressType="WindowMessage" KeyPressCode="192" KeyPressWindow="最终幻想XIV" ActionType="KeyPress" ExecutionDelayExpression="200">
-                <Condition Enabled="false" Grouping="Or" />
-              </Action>
-              <Action OrderNumber="11" KeypressType="WindowMessage" KeyPressCode="192" KeyPressWindow="最终幻想XIV" ActionType="KeyPress" ExecutionDelayExpression="200">
-                <Condition Enabled="false" Grouping="Or" />
-              </Action>
-              <Action OrderNumber="12" KeypressType="WindowMessage" KeyPressCode="192" KeyPressWindow="最终幻想XIV" ActionType="KeyPress" ExecutionDelayExpression="200">
-                <Condition Enabled="false" Grouping="Or" />
-              </Action>
-              <Action OrderNumber="13" KeypressType="WindowMessage" KeyPressCode="192" KeyPressWindow="最终幻想XIV" ActionType="KeyPress" ExecutionDelayExpression="200">
+              <Action OrderNumber="8" KeypressType="WindowMessage" KeyPressCode="27" KeyPressWindow="最终幻想XIV" ActionType="KeyPress" ExecutionDelayExpression="100*${var:delay}">
                 <Condition Enabled="false" Grouping="Or" />
               </Action>
             </Actions>
@@ -213,7 +201,7 @@
               <Action OrderNumber="6" KeypressType="WindowMessage" KeyPressCode="192" KeyPressWindow="最终幻想XIV" ActionType="KeyPress" ExecutionDelayExpression="350*${var:delay}">
                 <Condition Enabled="false" Grouping="Or" />
               </Action>
-              <Action OrderNumber="7" KeypressType="WindowMessage" KeyPressCode="106" KeyPressWindow="最终幻想XIV" ActionType="KeyPress" ExecutionDelayExpression="200*${var:delay}">
+              <Action OrderNumber="7" KeypressType="WindowMessage" KeyPressCode="192" KeyPressWindow="最终幻想XIV" ActionType="KeyPress" ExecutionDelayExpression="200*${var:delay}">
                 <Condition Enabled="false" Grouping="Or" />
               </Action>
               <Action OrderNumber="8" KeypressType="WindowMessage" KeyPressCode="192" KeyPressWindow="最终幻想XIV" ActionType="KeyPress" ExecutionDelayExpression="200*${var:delay}">
@@ -231,22 +219,7 @@
               <Action OrderNumber="12" KeypressType="WindowMessage" KeyPressCode="192" KeyPressWindow="最终幻想XIV" ActionType="KeyPress" ExecutionDelayExpression="200*${var:delay}">
                 <Condition Enabled="false" Grouping="Or" />
               </Action>
-              <Action OrderNumber="13" KeypressType="WindowMessage" KeyPressCode="192" KeyPressWindow="最终幻想XIV" ActionType="KeyPress" ExecutionDelayExpression="200*${var:delay}">
-                <Condition Enabled="false" Grouping="Or" />
-              </Action>
-              <Action OrderNumber="14" ActionType="Placeholder">
-                <Condition Enabled="false" Grouping="Or" />
-              </Action>
-              <Action OrderNumber="15" KeypressType="WindowMessage" KeyPressCode="192" KeyPressWindow="最终幻想XIV" ActionType="KeyPress" ExecutionDelayExpression="200">
-                <Condition Enabled="false" Grouping="Or" />
-              </Action>
-              <Action OrderNumber="16" KeypressType="WindowMessage" KeyPressCode="192" KeyPressWindow="最终幻想XIV" ActionType="KeyPress" ExecutionDelayExpression="200">
-                <Condition Enabled="false" Grouping="Or" />
-              </Action>
-              <Action OrderNumber="17" KeypressType="WindowMessage" KeyPressCode="192" KeyPressWindow="最终幻想XIV" ActionType="KeyPress" ExecutionDelayExpression="200">
-                <Condition Enabled="false" Grouping="Or" />
-              </Action>
-              <Action OrderNumber="18" KeypressType="WindowMessage" KeyPressCode="192" KeyPressWindow="最终幻想XIV" ActionType="KeyPress" ExecutionDelayExpression="200">
+              <Action OrderNumber="13" KeypressType="WindowMessage" KeyPressCode="192" KeyPressWindow="最终幻想XIV" ActionType="KeyPress" ExecutionDelayExpression="500*${var:delay}">
                 <Condition Enabled="false" Grouping="Or" />
               </Action>
             </Actions>
